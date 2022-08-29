@@ -1,5 +1,5 @@
 
-/*Mouad Bedley et Van Nam Vu
+/*Mouad Belbey et Van Nam Vu
 -- Date : 20/04/2020
 -- TP2 - jeu de carte
 -- Jeu de Poker Shuffle sur navigateur web.
